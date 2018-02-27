@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# BPMN Modeler für Confluence - Roadmap
 
-You can use the [editor on GitHub](https://github.com/bpmn-modeler/info/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Der BPMN Modeler für Confluence gibt es in unterschiedlichen Versionen. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Für das **Jahr 2018** sind folgende Features/Releases geplant.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+##BPMN Modeler - Marketplace
 
-1. Numbered
-2. List
+Die [Markeplace-Version des BPMN Modelers für Confluence](https://marketplace.atlassian.com/plugins/de.viadee.confluence.bpmn-plugin/server/overview) beinhaltet die grundlegenden Funktionen wie z.B. Speichern und Laden von Modellen sowie den Export als Vektorgrafik im SVG-Format.
 
-**Bold** and _Italic_ and `Code` text
+![](bpmn-modeler-marketplace.png)
 
-[Link](url) and ![Image](src)
-```
+**Releases/Features**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Regelmäßige Kompatibilitätsupdates zu Confluence - z.B. bei einer neuen Confluence Version
+* Zeitnahe Bugfix Releases
+* Update des Layouts
+* Kleinere Features
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bpmn-modeler/info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## BPMN Modeler - Enterprise
+
+Die Enterprise-Version beinhaltet noch weitere Features, die im professionellen Enterprisebreich eine große Unterstützung bietet.
+
+![](bpmn-modeler-enterprise.png)
+
+**Releases/Features**
+
++ Verlinkung und Anzeige von Prozessmodellen im Popup-Dialog
++ Kommentare an Prozesselemenete
++ Prozessrepository - zur Strukturierung von Prozessen
++ Weitere kleine Tools für den Prozessdesigner wie z.B.:
+  + Ausrichtung von Prozesselementen
+  + Gleichmäßige Verteilung von Prozesselementen
+  + Durchgängige Anzeige des Poolnamens 
++ Integration eine XML-Code-Editors für die direkte Bearbeitung des Modells
++ Regelmäßige Kompatibilitätsupdates zu Confluence
++ Updates der Core-Libraries von bpmn.io
++ ...
+
+
+
+
+
+## BPMN Modeler - Cloud
+
+Erste Version als Preview-Version bei der viadee auf Nachfrage erhältlich
+![](bpmn-modeler-cloud.png)
